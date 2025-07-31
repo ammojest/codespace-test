@@ -1,5 +1,5 @@
 <div class="container">
-	<h1 class="title">END OF DEMO</h1>
+	<h1 class="title">END OF DEMT</h1>
 </div>
 
 <style>
